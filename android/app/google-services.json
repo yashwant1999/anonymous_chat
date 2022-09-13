@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "264001533025",
+    "project_id": "anonymous-2927b",
+    "storage_bucket": "anonymous-2927b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:264001533025:android:05a6e9381a4c5bcf0aa620",
+        "android_client_info": {
+          "package_name": "com.example.anonymous_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "264001533025-8nlddq6u0hcrq32195o8eobdm8urll1s.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0rm6-uDOWJVM9_er5Ws1ccKmiWsWzAhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "264001533025-8nlddq6u0hcrq32195o8eobdm8urll1s.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
